@@ -1,3 +1,4 @@
+package jp.co.plusize.kinoshita_keisuke.calculate_sale;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -10,8 +11,7 @@ import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Map.Entry;
-
-public class Branch2 {
+public class SummarySales {
 	private static final String List = null;
 
 	public static void main(String[] args) {
@@ -208,5 +208,4 @@ public class Branch2 {
 
 	}
 }
-
 
